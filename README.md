@@ -1,7 +1,7 @@
 ### Olá ! Eu Sou RickCarlos !
 
-- 🌎 Trabalho: Front-End, Lua
-- 📚 Estudando: Python, JAVA, C, C++, C#, Back-End, TypeScript
+- 🌎 Trabalho: Lua
+- 📚 Estudando: Full Stack, Python, JAVA, C, C++, C#
 - 📫 Contato: rickcarlosdev@gmail.com
 
 <div align="left">
