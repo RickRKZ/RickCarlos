@@ -1,8 +1,8 @@
 ### Olá ! Eu Sou RickCarlos !
 
-- 🌎 Trabalhando: Lua
-- 📚 Estudando: Full Stack, Python, JAVA, C, C++, C#
-- 📫 Contato: rickcarlosdev@gmail.com
+- 🌎 Working: Lua
+- 📚 Learning: Full Stack, Python, JAVA, C, C++, C#
+- 📫 Contact: rickcarlosdev@gmail.com
 
 <div align="left">
   <a href="https://github.com/rickcarlos">
