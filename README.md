@@ -1,4 +1,5 @@
-### Olá ! Eu Sou RickCarlos !
+### Olá Eu Sou RickCarlos !
+### Hi i'm RickCarlos !
 
 - 🌎 Working: Lua
 - 📚 Learning: Full Stack, Python, JAVA, C, C++, C#
