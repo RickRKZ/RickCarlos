@@ -1,7 +1,7 @@
 ### Olá Eu Sou RickCarlos !
 ### Hi i'm RickCarlos !
 
-- 🌎 Working: Front=End
+- 🌎 Working: Front-End
 - 📚 Learning: Full-Stack, C, C++, C#
 - 📫 Contact: rickcarlosdev@gmail.com
 
