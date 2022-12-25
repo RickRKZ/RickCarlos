@@ -1,8 +1,8 @@
 ### Olá Eu Sou RickCarlos !
 ### Hi i'm RickCarlos !
 
-- 🌎 Working: Lua
-- 📚 Learning: Full Stack, Python, JAVA, C, C++, C#
+- 🌎 Working: Front=End
+- 📚 Learning: Full-Stack, C, C++, C#
 - 📫 Contact: rickcarlosdev@gmail.com
 
 <div align="left">
