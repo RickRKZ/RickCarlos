@@ -2,7 +2,7 @@
 ### Hi i'm RickCarlos !
 
 - 🌎 Working: Front-End
-- 📚 Learning: Full-Stack, C, C++, C#
+- 📚 Learning: Full-Stack
 - 📫 Contact: rickcarlosdev@gmail.com
 
 <div align="left">
