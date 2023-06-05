@@ -1,5 +1,5 @@
-### Olá Eu Sou RickCarlos !
-### Hi i'm RickCarlos !
+### Olá Eu Sou Rick !
+### Hi i'm Rick !
 
 - 🌎 Working: Front-End
 - 📚 Learning: Full-Stack
